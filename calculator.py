@@ -12,4 +12,4 @@ def multiply(a, b):
 if __name__ == "__main__":
     print(add(5, 3))
     print(subtract(5, 3))
-
+    print(multiply(10 , 2))
