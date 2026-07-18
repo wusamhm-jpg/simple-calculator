@@ -27,3 +27,7 @@ cat ~/.ssh/id_ed25519.pub
 git push -u origin main
 git push
 
+## Protected branch test
+## CI/CD Training
+
+This project uses GitHub Actions for automated testing.
