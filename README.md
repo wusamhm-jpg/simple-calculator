@@ -28,3 +28,6 @@ git push -u origin main
 git push
 
 ## Protected branch test
+## CI/CD Training
+
+This project uses GitHub Actions for automated testing.
